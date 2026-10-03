@@ -1,0 +1,34 @@
+{
+  "com.nutreiner": {
+    "versionCode": 53,
+    "versionName": "1.0.53",
+    "apkUrl": "https://raw.githubusercontent.com/ruideglan/nutreiner-releases/main/app-debug.apk",
+    "publishedAt": "2026-09-26T13:19:21Z",
+    "notes": "Correções de navegação offline",
+    "forceUpdate": false
+  },
+  "com.agende": {
+    "versionCode": 33,
+    "versionName": "1.0.33",
+    "apkUrl": "https://raw.githubusercontent.com/ruideglan/agende-releases/main/app-debug.apk",
+    "publishedAt": "2026-09-30T12:59:56Z",
+    "notes": "Correção de bloqueio de agendamentos.",
+    "forceUpdate": false
+  },
+  "com.lumi.idiomas": {
+    "versionCode": 24,
+    "versionName": "1.5.24",
+    "apkUrl": "https://github.com/ruideglan/lumi-releases/releases/latest/download/app-debug.apk",
+    "publishedAt": "2026-09-27T21:11:06Z",
+    "notes": "Atualização com melhorias de desempenho e correções gerais.",
+    "forceUpdate": false
+  },
+  "com.lumi.numeros": {
+    "versionCode": 26,
+    "versionName": "1.5.26",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.lumi.numeros-v1.5.26/lumi_numeros.apk",
+    "publishedAt": "2026-10-02T23:30:00Z",
+    "notes": "Lançamento oficial Lumi Números com aventuras matemáticas e áudio natural.",
+    "forceUpdate": false
+  }
+}
