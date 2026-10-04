@@ -24,10 +24,10 @@
     "forceUpdate": false
   },
   "com.lumi.numeros": {
-    "versionCode": 31,
-    "versionName": "1.5.31",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.lumi.numeros-v1.5.31/lumi_numeros.apk",
-    "publishedAt": "2026-10-04T01:57:38Z",
+    "versionCode": 32,
+    "versionName": "1.5.32",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.lumi.numeros-v1.5.32/lumi_numeros.apk",
+    "publishedAt": "2026-10-04T03:03:52Z",
     "notes": "Lançamento oficial Lumi Números com aventuras matemáticas e áudio natural.",
     "forceUpdate": false
   }
