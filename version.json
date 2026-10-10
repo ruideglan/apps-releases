@@ -8,11 +8,11 @@
     "forceUpdate": false
   },
   "com.agende": {
-    "versionCode": 34,
-    "versionName": "1.0.34",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.34/agende.apk",
-    "publishedAt": "2026-10-10T15:49:20Z",
-    "notes": "- Correção de safe-area.- Layout mobile otimizado para o Caixa e para a Grade de Agendamentos.- Ajustes na leitura e organização dos cards de agendamento.- Correção do erro de carregamento contínuo na agenda.- Resolução de problemas no login (Google e senhas) e no vínculo de funcionários.- Ajustes na configuração de horários da equipe.Continuamos trabalhando para deixar o app cada vez melhor!",
+    "versionCode": 35,
+    "versionName": "1.0.35",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.35/agende.apk",
+    "publishedAt": "2026-10-10T16:26:25Z",
+    "notes": "Ajustes de safe-area e visibilidade de botoes de acao em todos os modais mobile/desktop.",
     "forceUpdate": false
   },
   "com.lumi.idiomas": {
