@@ -8,11 +8,11 @@
     "forceUpdate": false
   },
   "com.agende": {
-    "versionCode": 35,
-    "versionName": "1.0.35",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.35/agende.apk",
-    "publishedAt": "2026-10-10T16:29:17Z",
-    "notes": "Ajustes de safe-area e visibilidade de botoes de acao em todos os modais mobile/desktop.",
+    "versionCode": 36,
+    "versionName": "1.0.36",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.36/agende.apk",
+    "publishedAt": "2026-10-10T18:13:23Z",
+    "notes": "Correção no cadastro de clientes: resolvido bloqueio e reset na digitação do campo de data de nascimento e adicionada barra de ações mobile.",
     "forceUpdate": false
   },
   "com.lumi.idiomas": {
