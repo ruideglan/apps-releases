@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 16,
-    "versionName": "1.1.7",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.1.7/denaro.apk",
-    "publishedAt": "2026-10-14T18:50:21Z",
-    "notes": "v1.1.7: Opção no modal de confirmação para excluir também a cobrança vinculada ao cliente",
+    "versionCode": 17,
+    "versionName": "1.1.8",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.1.8/denaro.apk",
+    "publishedAt": "2026-10-14T20:41:57Z",
+    "notes": "v1.1.8: Chat inteligente pós-análise IA com suporte a dúvidas e alteração/criação de dados no app",
     "forceUpdate": false
   }
 }
