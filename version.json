@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 10,
-    "versionName": "1.1.1",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.1.1/denaro.apk",
-    "publishedAt": "2026-10-14T13:59:24Z",
-    "notes": "v1.1.1: Build otimizada com suporte a atualizações OTA e compatibilidade Play Protect",
+    "versionCode": 11,
+    "versionName": "1.1.2",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.1.2/denaro.apk",
+    "publishedAt": "2026-10-14T14:11:21Z",
+    "notes": "v1.1.2: Removido listener de notificações sensíveis para compatibilidade e instalação sem bloqueios do Play Protect",
     "forceUpdate": false
   }
 }
