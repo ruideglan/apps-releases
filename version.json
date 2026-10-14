@@ -30,5 +30,13 @@
     "publishedAt": "2026-10-04T03:15:20Z",
     "notes": "Melhorias de desempenho e correções gerais.",
     "forceUpdate": false
+  },
+  "com.denaro": {
+    "versionCode": 9,
+    "versionName": "1.1.0",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.1.0/denaro.apk",
+    "publishedAt": "2026-10-14T13:00:17Z",
+    "notes": "v1.1.0: Análise Financeira por IA (Gemini & ChatGPT), suporte a faturas de cartões e sistema de atualizações OTA via GitHub Releases",
+    "forceUpdate": false
   }
 }
