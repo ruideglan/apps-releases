@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 14,
-    "versionName": "1.1.5",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.1.5/denaro.apk",
-    "publishedAt": "2026-10-14T18:12:28Z",
-    "notes": "v1.1.5: Importação de fatura de cartão (PDF/CSV) com vínculo a clientes e filtro de aniversariantes",
+    "versionCode": 15,
+    "versionName": "1.1.6",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.1.6/denaro.apk",
+    "publishedAt": "2026-10-14T18:32:49Z",
+    "notes": "v1.1.6: Exclusão em lote com ConfirmModal na fatura e correção de seleção de cartão na importação",
     "forceUpdate": false
   }
 }
