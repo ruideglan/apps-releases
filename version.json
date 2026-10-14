@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 12,
-    "versionName": "1.1.3",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.1.3/denaro.apk",
-    "publishedAt": "2026-10-14T15:20:02Z",
-    "notes": "v1.1.3: Deteccao automatica de modelos Gemini/ChatGPT e correcao de selecao de modelo",
+    "versionCode": 13,
+    "versionName": "1.1.4",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.1.4/denaro.apk",
+    "publishedAt": "2026-10-14T17:14:47Z",
+    "notes": "v1.1.4: Exportacao para PDF e WhatsApp, correcao de scroll e sincronizacao de chaves de IA no Supabase",
     "forceUpdate": false
   }
 }
