@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 18,
-    "versionName": "1.1.9",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.1.9/denaro.apk",
-    "publishedAt": "2026-10-14T22:46:58Z",
-    "notes": "v1.1.9: Ações em lote no chat IA, categoria personalizada e permuta nos lançamentos",
+    "versionCode": 19,
+    "versionName": "1.2.0",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.2.0/denaro.apk",
+    "publishedAt": "2026-10-14T23:47:07Z",
+    "notes": "v1.2.0: Quitação de fatura do cartão, baixa em lote de contas a pagar e neutralidade da permuta",
     "forceUpdate": false
   }
 }
