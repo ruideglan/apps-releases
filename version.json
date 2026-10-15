@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 22,
-    "versionName": "1.2.3",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.2.3/denaro.apk",
-    "publishedAt": "2026-10-15T09:41:27Z",
-    "notes": "v1.2.3: Agrupamento de permutas por saida/entrada, abatimento no resumo e remocao de categorias no WhatsApp",
+    "versionCode": 23,
+    "versionName": "1.2.4",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.2.4/denaro.apk",
+    "publishedAt": "2026-10-15T11:15:20Z",
+    "notes": "v1.2.4: Resumo de permuta e lembretes de fechamento de cartao",
     "forceUpdate": false
   }
 }
