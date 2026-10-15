@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 25,
-    "versionName": "1.2.6",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.2.6/denaro.apk",
-    "publishedAt": "2026-10-15T15:17:58Z",
-    "notes": "v1.2.6: Siri Orb animado acelerado por GPU como icone nativo da IA, ativo por padrao na posicao central do menu mobile",
+    "versionCode": 26,
+    "versionName": "1.2.7",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.2.7/denaro.apk",
+    "publishedAt": "2026-10-15T15:52:48Z",
+    "notes": "v1.2.7: AiOrb nativo sem moldura ou bordas, com deformacao de bolha, fitas multicoloridas e fundo adaptavel ao tema claro/escuro",
     "forceUpdate": false
   }
 }
