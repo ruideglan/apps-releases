@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 35,
-    "versionName": "1.3.6",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.6/denaro.apk",
-    "publishedAt": "2026-10-15T22:05:06Z",
-    "notes": "Remocao do badge azul indicador do OrbiAI flutuante",
+    "versionCode": 36,
+    "versionName": "1.3.7",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.7/denaro.apk",
+    "publishedAt": "2026-10-15T23:51:49Z",
+    "notes": "fix(build): restaura public/redirects para deploy Cloudflare Pages stable",
     "forceUpdate": false
   }
 }
