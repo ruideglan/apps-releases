@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 28,
-    "versionName": "1.2.9",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.2.9/denaro.apk",
-    "publishedAt": "2026-10-15T16:09:42Z",
-    "notes": "v1.2.9: AiOrb 30% maior alinhado no mesmo eixo horizontal dos demais botoes",
+    "versionCode": 29,
+    "versionName": "1.3.0",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.0/denaro.apk",
+    "publishedAt": "2026-10-15T16:32:10Z",
+    "notes": "v1.3.0: Centralizacao do modal de convites no mobile e suporte a convites em lote/campanha para Admin",
     "forceUpdate": false
   }
 }
