@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 34,
-    "versionName": "1.3.5",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.5/denaro.apk",
-    "publishedAt": "2026-10-15T20:06:54Z",
-    "notes": "Remocao de borda do OrbiAI flutuante deixando-o totalmente borderless",
+    "versionCode": 35,
+    "versionName": "1.3.6",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.6/denaro.apk",
+    "publishedAt": "2026-10-15T22:05:06Z",
+    "notes": "Remocao do badge azul indicador do OrbiAI flutuante",
     "forceUpdate": false
   }
 }
