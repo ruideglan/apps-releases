@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 23,
-    "versionName": "1.2.4",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.2.4/denaro.apk",
-    "publishedAt": "2026-10-15T11:15:20Z",
-    "notes": "v1.2.4: Resumo de permuta e lembretes de fechamento de cartao",
+    "versionCode": 24,
+    "versionName": "1.2.5",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.2.5/denaro.apk",
+    "publishedAt": "2026-10-15T15:01:53Z",
+    "notes": "v1.2.5: Botao de Analise de IA centralizado no menu mobile com icone Siri Orb",
     "forceUpdate": false
   }
 }
