@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 20,
-    "versionName": "1.2.1",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.2.1/denaro.apk",
-    "publishedAt": "2026-10-15T00:37:21Z",
-    "notes": "v1.2.1: Ocultar permuta de A Pagar e listar em cobrancas whatsapp sem somar",
+    "versionCode": 21,
+    "versionName": "1.2.2",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.2.2/denaro.apk",
+    "publishedAt": "2026-10-15T02:42:58Z",
+    "notes": "v1.2.2: Neutralidade de permuta em contas a receber e correcoes de faturamento",
     "forceUpdate": false
   }
 }
