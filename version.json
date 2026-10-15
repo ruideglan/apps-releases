@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 27,
-    "versionName": "1.2.8",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.2.8/denaro.apk",
-    "publishedAt": "2026-10-15T16:02:37Z",
-    "notes": "v1.2.8: AiOrb ampliado sem legenda preenchendo o espaco central do menu mobile",
+    "versionCode": 28,
+    "versionName": "1.2.9",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.2.9/denaro.apk",
+    "publishedAt": "2026-10-15T16:09:42Z",
+    "notes": "v1.2.9: AiOrb 30% maior alinhado no mesmo eixo horizontal dos demais botoes",
     "forceUpdate": false
   }
 }
