@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 21,
-    "versionName": "1.2.2",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.2.2/denaro.apk",
-    "publishedAt": "2026-10-15T02:42:58Z",
-    "notes": "v1.2.2: Neutralidade de permuta em contas a receber e correcoes de faturamento",
+    "versionCode": 22,
+    "versionName": "1.2.3",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.2.3/denaro.apk",
+    "publishedAt": "2026-10-15T09:41:27Z",
+    "notes": "v1.2.3: Agrupamento de permutas por saida/entrada, abatimento no resumo e remocao de categorias no WhatsApp",
     "forceUpdate": false
   }
 }
