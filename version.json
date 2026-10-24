@@ -8,11 +8,11 @@
     "forceUpdate": false
   },
   "com.agende": {
-    "versionCode": 38,
-    "versionName": "1.0.38",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.38/agende.apk",
-    "publishedAt": "2026-10-24T00:58:05Z",
-    "notes": "Validacao visual e aviso de campo obrigatorio no modal de Nova Ausencia.",
+    "versionCode": 39,
+    "versionName": "1.0.39",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.39/agende.apk",
+    "publishedAt": "2026-10-24T01:09:17Z",
+    "notes": "Edicao direta de ausencias cadastradas com salvamento automatico.",
     "forceUpdate": false
   },
   "com.lumi.idiomas": {
