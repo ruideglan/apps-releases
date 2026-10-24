@@ -8,11 +8,11 @@
     "forceUpdate": false
   },
   "com.agende": {
-    "versionCode": 37,
-    "versionName": "1.0.37",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.37/agende.apk",
-    "publishedAt": "2026-10-24T00:14:59Z",
-    "notes": "Blindagem de seguranca (RLS, RPCs, Stripe HMAC, XSS) e correcao de salvamento/sincronizacao de ausencias no mobile.",
+    "versionCode": 38,
+    "versionName": "1.0.38",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.38/agende.apk",
+    "publishedAt": "2026-10-24T00:58:05Z",
+    "notes": "Validacao visual e aviso de campo obrigatorio no modal de Nova Ausencia.",
     "forceUpdate": false
   },
   "com.lumi.idiomas": {
