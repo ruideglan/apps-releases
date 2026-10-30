@@ -11,8 +11,8 @@
     "versionCode": 40,
     "versionName": "1.0.40",
     "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.40/agende.apk",
-    "publishedAt": "2026-10-30T18:46:55Z",
-    "notes": "Melhorias de desempenho e correções gerais.",
+    "publishedAt": "2026-10-30T19:16:07Z",
+    "notes": "Melhorias de desempenho, filtros cronologicos e integracoes WhatsApp.",
     "forceUpdate": false
   },
   "com.lumi.idiomas": {
