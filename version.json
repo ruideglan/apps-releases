@@ -8,11 +8,11 @@
     "forceUpdate": false
   },
   "com.agende": {
-    "versionCode": 43,
-    "versionName": "1.0.43",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.43/agende.apk",
-    "publishedAt": "2026-11-01T13:37:45Z",
-    "notes": "• Correção de concorrência offline e merge atômico na fila de mutações\\n• Restabelecimento autônomo de lembretes no WhatsApp Dispatcher\\n• Isolamento de armazenamento de filas e recuperação cumulativa de DLQ\\n• Expansão da malha Real-Time WebSocket para pacotes e configurações",
+    "versionCode": 44,
+    "versionName": "1.0.44",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.44/agende.apk",
+    "publishedAt": "2026-11-07T01:24:47Z",
+    "notes": "Correção no disparo manual de confirmação: status permanece pendente até a confirmação do cliente e link de confirmação incluído na mensagem",
     "forceUpdate": false
   },
   "com.lumi.idiomas": {
