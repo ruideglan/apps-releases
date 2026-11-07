@@ -8,11 +8,11 @@
     "forceUpdate": false
   },
   "com.agende": {
-    "versionCode": 45,
-    "versionName": "1.0.45",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.45/agende.apk",
-    "publishedAt": "2026-11-07T10:30:12Z",
-    "notes": "• Adicionada chave de alternância de sistema de envio de WhatsApp (Evolution API / OpenWA) no JARVIS\n• Suporte unificado ao OpenWA no proxy Supabase e painel administrativo",
+    "versionCode": 46,
+    "versionName": "1.0.46",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.46/agende.apk",
+    "publishedAt": "2026-11-07T11:37:42Z",
+    "notes": "• Rota pública Cloudflare Tunnel configurada (https://openwa.ruideglan.com.br)\n• Alternador de Motor WhatsApp implementado no JARVIS (Automações, Sistema e Planos)\n• Suporte integrado ao OpenWA no APK e Supabase Edge Functions",
     "forceUpdate": false
   },
   "com.lumi.idiomas": {
