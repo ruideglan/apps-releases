@@ -8,11 +8,11 @@
     "forceUpdate": false
   },
   "com.agende": {
-    "versionCode": 47,
-    "versionName": "1.0.47",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.47/agende.apk",
-    "publishedAt": "2026-11-07T12:54:30Z",
-    "notes": "• Correção do teste de conexão e health check do OpenWA (CORS e normalização automática de protocolo https://)\n• Validação unificada de endpoints nos painéis Automações, Sistema e Planos\n• Normalização robusta de URLs na Edge Function evolution-proxy",
+    "versionCode": 48,
+    "versionName": "1.0.48",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.48/agende.apk",
+    "publishedAt": "2026-11-07T14:09:11Z",
+    "notes": "fix(whatsapp-modal): adjust lead time dropdown layout to prevent card overflow in desktop columns (v1.0.48 OTA)",
     "forceUpdate": false
   },
   "com.lumi.idiomas": {
