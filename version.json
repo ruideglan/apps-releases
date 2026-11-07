@@ -8,11 +8,11 @@
     "forceUpdate": false
   },
   "com.agende": {
-    "versionCode": 44,
-    "versionName": "1.0.44",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.44/agende.apk",
-    "publishedAt": "2026-11-07T01:24:47Z",
-    "notes": "Correção no disparo manual de confirmação: status permanece pendente até a confirmação do cliente e link de confirmação incluído na mensagem",
+    "versionCode": 45,
+    "versionName": "1.0.45",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.45/agende.apk",
+    "publishedAt": "2026-11-07T10:30:12Z",
+    "notes": "• Adicionada chave de alternância de sistema de envio de WhatsApp (Evolution API / OpenWA) no JARVIS\n• Suporte unificado ao OpenWA no proxy Supabase e painel administrativo",
     "forceUpdate": false
   },
   "com.lumi.idiomas": {
