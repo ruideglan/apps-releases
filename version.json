@@ -8,11 +8,11 @@
     "forceUpdate": false
   },
   "com.agende": {
-    "versionCode": 48,
-    "versionName": "1.0.48",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.48/agende.apk",
-    "publishedAt": "2026-11-07T14:09:11Z",
-    "notes": "fix(whatsapp-modal): adjust lead time dropdown layout to prevent card overflow in desktop columns (v1.0.48 OTA)",
+    "versionCode": 49,
+    "versionName": "1.0.49",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.49/agende.apk",
+    "publishedAt": "2026-11-07T17:30:32Z",
+    "notes": "feat(booking): explicit pre-booking status and whatsapp notification callout (v1.0.49 OTA)",
     "forceUpdate": false
   },
   "com.lumi.idiomas": {
