@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 38,
-    "versionName": "1.3.9",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.9/denaro.apk",
-    "publishedAt": "2026-11-07T14:18:39Z",
-    "notes": "fix(credit-cards): isolate monthly invoice filtering, fix competence date and payment status (v1.3.9 OTA)",
+    "versionCode": 39,
+    "versionName": "1.3.10",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.10/denaro.apk",
+    "publishedAt": "2026-11-07T16:58:10Z",
+    "notes": "fix(denaro): toast auto-dismiss, monthly card invoice in dashboard, iso date normalization and birthday dismiss (v1.3.10 OTA)",
     "forceUpdate": false
   }
 }
