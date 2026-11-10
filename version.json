@@ -38,5 +38,13 @@
     "publishedAt": "2026-11-07T16:58:10Z",
     "notes": "fix(denaro): toast auto-dismiss, monthly card invoice in dashboard, iso date normalization and birthday dismiss (v1.3.10 OTA)",
     "forceUpdate": false
+  },
+  "com.treselascalc.app": {
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.treselascalc.app-v1.0.0/treselascalc.apk",
+    "publishedAt": "2026-11-10T17:39:30Z",
+    "notes": "Release inicial v1.0.0 - Padrão Ouro de Sincronização e App Oficial",
+    "forceUpdate": false
   }
 }
