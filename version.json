@@ -40,19 +40,19 @@
     "forceUpdate": false
   },
   "com.treselascalc.app": {
-    "versionCode": 3,
-    "versionName": "1.0.2",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.treselascalc-v1.0.2/treselascalc.apk",
-    "publishedAt": "2026-11-11T02:34:38Z",
-    "notes": "fix(offline): correcao definitiva de inicializacao offline-first e remocao de throw no supabaseClient (v1.0.2 OTA)",
+    "versionCode": 4,
+    "versionName": "1.0.3",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.treselascalc-v1.0.3/treselascalc.apk",
+    "publishedAt": "2026-11-11T03:05:13Z",
+    "notes": "Correção do erro Failed to fetch no login com credenciais oficiais Supabase e tratamento resiliente de erros",
     "forceUpdate": false
   },
   "com.treselascalc": {
-    "versionCode": 3,
-    "versionName": "1.0.2",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.treselascalc-v1.0.2/treselascalc.apk",
-    "publishedAt": "2026-11-11T02:34:38Z",
-    "notes": "fix(offline): correcao definitiva de inicializacao offline-first e remocao de throw no supabaseClient (v1.0.2 OTA)",
+    "versionCode": 4,
+    "versionName": "1.0.3",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.treselascalc-v1.0.3/treselascalc.apk",
+    "publishedAt": "2026-11-11T03:05:13Z",
+    "notes": "Correção do erro Failed to fetch no login com credenciais oficiais Supabase e tratamento resiliente de erros",
     "forceUpdate": false
   }
 }
