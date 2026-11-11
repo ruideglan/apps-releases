@@ -40,19 +40,19 @@
     "forceUpdate": false
   },
   "com.treselascalc.app": {
-    "versionCode": 4,
-    "versionName": "1.0.3",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.treselascalc-v1.0.3/treselascalc.apk",
-    "publishedAt": "2026-11-11T03:05:13Z",
-    "notes": "Correção do erro Failed to fetch no login com credenciais oficiais Supabase e tratamento resiliente de erros",
+    "versionCode": 5,
+    "versionName": "1.0.4",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.treselascalc-v1.0.4/treselascalc.apk",
+    "publishedAt": "2026-11-11T03:20:40Z",
+    "notes": "Implementação do plugin nativo AppInstaller e suporte a atualização OTA direta via FileProvider",
     "forceUpdate": false
   },
   "com.treselascalc": {
-    "versionCode": 4,
-    "versionName": "1.0.3",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.treselascalc-v1.0.3/treselascalc.apk",
-    "publishedAt": "2026-11-11T03:05:13Z",
-    "notes": "Correção do erro Failed to fetch no login com credenciais oficiais Supabase e tratamento resiliente de erros",
+    "versionCode": 5,
+    "versionName": "1.0.4",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.treselascalc-v1.0.4/treselascalc.apk",
+    "publishedAt": "2026-11-11T03:20:40Z",
+    "notes": "Implementação do plugin nativo AppInstaller e suporte a atualização OTA direta via FileProvider",
     "forceUpdate": false
   }
 }
