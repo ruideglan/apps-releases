@@ -40,11 +40,19 @@
     "forceUpdate": false
   },
   "com.treselascalc.app": {
-    "versionCode": 1,
-    "versionName": "1.0.0",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.treselascalc.app-v1.0.0/treselascalc.apk",
-    "publishedAt": "2026-11-10T17:39:30Z",
-    "notes": "Release inicial v1.0.0 - Padrão Ouro de Sincronização e App Oficial",
+    "versionCode": 2,
+    "versionName": "1.0.1",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.treselascalc-v1.0.1/treselascalc.apk",
+    "publishedAt": "2026-11-11T01:46:05Z",
+    "notes": "fix(android): correcao estrutural do apk (package name com.treselascalc, remocao tela branca, icones e splash)",
+    "forceUpdate": false
+  },
+  "com.treselascalc": {
+    "versionCode": 2,
+    "versionName": "1.0.1",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.treselascalc-v1.0.1/treselascalc.apk",
+    "publishedAt": "2026-11-11T01:46:05Z",
+    "notes": "fix(android): correcao estrutural do apk (package name com.treselascalc, remocao tela branca, icones e splash)",
     "forceUpdate": false
   }
 }
