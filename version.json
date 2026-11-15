@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 40,
-    "versionName": "1.3.11",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.11/denaro.apk",
-    "publishedAt": "2026-11-15T12:35:09Z",
-    "notes": "feat(denaro): cobrança automática WhatsApp, ajustes de vencimento e melhorias em clientes e transações (v1.3.11 OTA)",
+    "versionCode": 41,
+    "versionName": "1.3.12",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.12/denaro.apk",
+    "publishedAt": "2026-11-15T14:17:27Z",
+    "notes": "fix(whatsapp): integração WAHA, configurações de cobrança automática e segurança de variáveis de ambiente (v1.3.12 OTA)",
     "forceUpdate": false
   },
   "com.treselascalc.app": {
