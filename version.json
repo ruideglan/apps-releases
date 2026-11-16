@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 43,
-    "versionName": "1.3.14",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.14/denaro.apk",
-    "publishedAt": "2026-11-16T23:26:00Z",
-    "notes": "fix(whatsapp): simplifica conexão WhatsApp para instância única por usuário e garante env WAHA no build (v1.3.14 OTA)",
+    "versionCode": 44,
+    "versionName": "1.3.15",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.15/denaro.apk",
+    "publishedAt": "2026-11-16T23:50:00Z",
+    "notes": "security(whatsapp): migra comunicação WAHA para Edge Function autenticada waha-proxy e remove credenciais do bundle (v1.3.15 OTA)",
     "forceUpdate": false
   },
   "com.treselascalc.app": {
