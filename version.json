@@ -8,11 +8,11 @@
     "forceUpdate": false
   },
   "com.agende": {
-    "versionCode": 49,
-    "versionName": "1.0.49",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.49/agende.apk",
-    "publishedAt": "2026-11-07T17:30:32Z",
-    "notes": "feat(booking): explicit pre-booking status and whatsapp notification callout (v1.0.49 OTA)",
+    "versionCode": 50,
+    "versionName": "1.0.50",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.50/agende.apk",
+    "publishedAt": "2026-11-16T11:05:00Z",
+    "notes": "fix(whatsapp): birthday template fallback, opt-out filter and openwa local queue handling (v1.0.50 OTA)",
     "forceUpdate": false
   },
   "com.lumi.idiomas": {
