@@ -8,11 +8,11 @@
     "forceUpdate": false
   },
   "com.agende": {
-    "versionCode": 50,
-    "versionName": "1.0.50",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.50/agende.apk",
-    "publishedAt": "2026-11-16T11:05:00Z",
-    "notes": "fix(whatsapp): birthday template fallback, opt-out filter and openwa local queue handling (v1.0.50 OTA)",
+    "versionCode": 51,
+    "versionName": "1.0.51",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.51/agende.apk",
+    "publishedAt": "2026-11-17T00:13:00Z",
+    "notes": "feat(whatsapp): migra proxy para whatsapp-proxy unificado e atualiza motor externo (v1.0.51 OTA)",
     "forceUpdate": false
   },
   "com.lumi.idiomas": {
