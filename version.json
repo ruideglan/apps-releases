@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 44,
-    "versionName": "1.3.15",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.15/denaro.apk",
-    "publishedAt": "2026-11-16T23:50:00Z",
-    "notes": "security(whatsapp): migra comunicação WAHA para Edge Function autenticada waha-proxy e remove credenciais do bundle (v1.3.15 OTA)",
+    "versionCode": 45,
+    "versionName": "1.3.16",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.16/denaro.apk",
+    "publishedAt": "2026-11-17T00:09:00Z",
+    "notes": "fix(whatsapp): corrige Edge Function whatsapp-proxy com npm:@supabase/supabase-js e remove referências legadas (v1.3.16 OTA)",
     "forceUpdate": false
   },
   "com.treselascalc.app": {
