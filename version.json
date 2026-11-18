@@ -35,8 +35,8 @@
     "versionCode": 47,
     "versionName": "1.3.18",
     "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.18/denaro.apk",
-    "publishedAt": "2026-11-18T12:10:28Z",
-    "notes": "feat(billing): adicionar dia padrão para disparo automático de cobrança e gráfico de patrimônio (v1.3.18)",
+    "publishedAt": "2026-11-18T22:57:55Z",
+    "notes": "fix(whatsapp): atualizar proxy whatsapp-proxy e fluxo de envio (v1.3.18)",
     "forceUpdate": false
   },
   "com.treselascalc.app": {
