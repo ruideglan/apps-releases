@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 46,
-    "versionName": "1.3.17",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.17/denaro.apk",
-    "publishedAt": "2026-11-17T01:35:00Z",
-    "notes": "fix(settings): sincroniza colunas de IA/configurações na nuvem e remove avisos técnicos de SQL/RPC (v1.3.17 OTA)",
+    "versionCode": 47,
+    "versionName": "1.3.18",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.18/denaro.apk",
+    "publishedAt": "2026-11-18T12:10:28Z",
+    "notes": "feat(billing): adicionar dia padrão para disparo automático de cobrança e gráfico de patrimônio (v1.3.18)",
     "forceUpdate": false
   },
   "com.treselascalc.app": {
