@@ -11,8 +11,8 @@
     "versionCode": 51,
     "versionName": "1.0.51",
     "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.agende-v1.0.51/agende.apk",
-    "publishedAt": "2026-11-17T00:13:00Z",
-    "notes": "feat(whatsapp): migra proxy para whatsapp-proxy unificado e atualiza motor externo (v1.0.51 OTA)",
+    "publishedAt": "2026-11-18T15:24:48Z",
+    "notes": "fix(whatsapp): atualizar fluxo de envio e script de publicação com assinatura KeyStore (v1.0.51)",
     "forceUpdate": false
   },
   "com.lumi.idiomas": {
