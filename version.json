@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 50,
-    "versionName": "1.3.21",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.21/denaro.apk",
-    "publishedAt": "2026-11-20T14:44:04Z",
-    "notes": "Ajustes de UI e melhorias visuais (v1.3.21)",
+    "versionCode": 51,
+    "versionName": "1.3.22",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.22/denaro.apk",
+    "publishedAt": "2026-11-20T15:35:44Z",
+    "notes": "Ajuste de layout na tela de Clientes (v1.3.22)",
     "forceUpdate": false
   },
   "com.treselascalc.app": {
