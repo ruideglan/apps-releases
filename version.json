@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 49,
-    "versionName": "1.3.20",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.20/denaro.apk",
-    "publishedAt": "2026-11-20T13:32:00Z",
-    "notes": "Disparo manual de cobranças atrasadas (v1.3.20)",
+    "versionCode": 50,
+    "versionName": "1.3.21",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.3.21/denaro.apk",
+    "publishedAt": "2026-11-20T14:44:04Z",
+    "notes": "Ajustes de UI e melhorias visuais (v1.3.21)",
     "forceUpdate": false
   },
   "com.treselascalc.app": {
