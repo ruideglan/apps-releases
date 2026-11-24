@@ -32,11 +32,11 @@
     "forceUpdate": false
   },
   "com.denaro": {
-    "versionCode": 55,
-    "versionName": "1.4.2",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.4.2/denaro.apk",
-    "publishedAt": "2026-11-24T01:02:19Z",
-    "notes": "Fechamento da conta nas configurações (v1.4.2)",
+    "versionCode": 56,
+    "versionName": "1.4.3",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.denaro-v1.4.3/denaro.apk",
+    "publishedAt": "2026-11-24T01:27:40Z",
+    "notes": "Ajuste no modal de transação (v1.4.3)",
     "forceUpdate": false
   },
   "com.treselascalc.app": {
