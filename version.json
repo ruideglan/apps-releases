@@ -1,10 +1,10 @@
 {
   "com.nutreiner": {
-    "versionCode": 56,
-    "versionName": "1.0.56",
-    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.nutreiner-v1.0.56/nutreiner.apk",
-    "publishedAt": "2026-11-25T17:32:43Z",
-    "notes": "Correções de backup nativo e dashboard do aluno",
+    "versionCode": 57,
+    "versionName": "1.0.57",
+    "apkUrl": "https://github.com/ruideglan/apps-releases/releases/download/com.nutreiner-v1.0.57/nutreiner.apk",
+    "publishedAt": "2026-11-25T19:15:44Z",
+    "notes": "Atualização do ícone de notificação",
     "forceUpdate": false
   },
   "com.agende": {
